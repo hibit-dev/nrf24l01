@@ -4,7 +4,7 @@ Having two or more Arduino boards be able to communicate with each other wireles
 ├ src  
 │  ├ receiver  
 │  └ transmitter  
-├ library  
+├ libs  
 └ schema  
 
 ## Documentation
