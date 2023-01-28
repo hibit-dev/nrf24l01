@@ -63,7 +63,7 @@ void loop()
     lastSignalMillis = currentMillis;
   }
 
-  if (currentMillis - lastSignalMillis > INTERVAL_MS_SIGNAL_LOST) {
+  if (currentMillis != 0 && currentMillis - lastSignalMillis > INTERVAL_MS_SIGNAL_LOST) {
     lostConnection();
   }
 }
