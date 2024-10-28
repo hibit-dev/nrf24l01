@@ -8,10 +8,13 @@ Having two or more Arduino boards be able to communicate with each other wireles
 └ schema  
 
 ## Documentation
-You'll find instructions and full documentation on [HiBit](https://www.hibit.dev/posts/22/how-to-use-the-nrf24l01-module-with-arduino). It includes detailed info on how to wire and use the module.
+Discover a world of knowledge hosted on [HiBit](https://www.hibit.dev). Serving as your informational hub, this resource offers clear instructions and valuable insights to explore a spectrum of articles, tutorials, stories, news, and beyond.  
 
-## Credits
-- [nRF24](https://github.com/nRF24)
+You'll find detailed instructions and comprehensive documentation for this repository on:
+- [How to use the NRF24L01 module with Arduino](https://www.hibit.dev/posts/22/how-to-use-the-nrf24l01-module-with-arduino)
+- [Getting started with RF-Nano and wireless communication ](https://www.hibit.dev/posts/208/getting-started-with-the-rf-nano-and-wireless-communication)
+
+The documentation offers clear guidance on wiring and using the device, providing practical insights for a smooth integration into your projects. Take a closer look at the documentation to enhance your understanding, and don't hesitate to reach out for any specific guidance or support.
 
 ## Security
 If you discover any security related issues, please email security@hibit.dev instead of using the issue tracker.
